@@ -1,0 +1,27 @@
+Install Python by Python Download search
+
+
+Add these 2 in "Edit System Variables", edit "Path" and select below location and "OK"
+
+C:\Users\neelp\AppData\Local\Programs\Python\Python311
+
+C:\Users\neelp\AppData\Local\Programs\Python\Python311\Scripts
+
+Selenium
+
+pip install selenium (CMD)
+Can get this code from python selenium download search
+
+Can check if installed or not in Python folder -> Lib -> Site-Packages -> Selenium
+Also, can check in CMD -> pip show selenium
+
+pip install -U selenium
+The optional –U flag will upgrade the existing version of the installed package
+
+This command will set up the Selenium WebDriver client library on your machine with all modules and classes that we will need to create automated scripts using Python
+
+PyCharm - Editor
+
+In Project, go to Interapter setting in the bottom, and select "Python.exxe" from Python folder
+
+
